@@ -38,3 +38,7 @@ git remote add origin リモートリポジトリURL
 一度紐付けた後はこの手順は省略可。
 
 6.リモートリポジトリにpushするgit push origin ブランチ名
+
+〜ブランチの切り替え〜
+
+git branch ブランチ名
